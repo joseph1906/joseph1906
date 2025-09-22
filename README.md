@@ -16,7 +16,7 @@
 ---
 
 ### 🌐 Socials  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Joseph SAWA-SAWA)  
+[![Facebook](https://facebook.com/Joseph SAWA-SAWA)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joseph190675)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josephsajsawasawa@gmail.com)  
 
